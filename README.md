@@ -6,3 +6,7 @@ Challenge que se realiza para completar la formación de Python para la especial
 02/12/2025 Se realiza modificaciones a la tabla y se trabaja con los ingresos totales de cada tienda
 
 03/12/2025 Se realiza el analisis de las categorias más vendidas por tienda
+
+11/12/2025 Se realiza los últimos análisis matematicos de las tiendas
+
+12/12/2025 Se comienza a graficar los resultados
