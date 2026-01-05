@@ -10,3 +10,5 @@ Challenge que se realiza para completar la formación de Python para la especial
 11/12/2025 Se realiza los últimos análisis matematicos de las tiendas
 
 12/12/2025 Se comienza a graficar los resultados
+
+05/01/2026 Se agregan gráficos a los primeros tres análisis solicitados para el proyecto
